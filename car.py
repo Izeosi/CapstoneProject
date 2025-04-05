@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-COLORS = ['red', 'green', 'yellow', 'blue', 'orange', 'purple']
+COLORS = ['red', 'green', 'brown', 'blue', 'orange', 'purple']
 STARTING_DISTANCE = 5
 DISTANCE_INCREMENT = 5
 
